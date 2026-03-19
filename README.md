@@ -26,3 +26,16 @@ A BehaviorController checks nearby mobs and applies different systems based on t
 1. Install Minecraft Fabric Loader
 2. Place the provided .jar file into your Minecraft "mods" folder
 3. Launch Minecraft with Fabric
+
+## References
+
+- Fabric API Documentation: https://fabricmc.net/
+- Fabric Example Mod: https://github.com/FabricMC/fabric-example-mod
+
+### Video Tutorials
+
+- "Fabric Modding Tutorial Series" – https://www.youtube.com/watch?v=oU8-qV-ZtUY&list=PLKGarocXCE1H_HxOYihQMq0mlpqiUJj4L  
+  Used primarily the first video to set up the Fabric mod template and development environment.
+
+- "Explaining Events | #23" (from the same series)  
+  Helped understand how to use events, which was important for handling mob interactions and updating behavior.
