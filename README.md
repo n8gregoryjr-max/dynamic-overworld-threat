@@ -39,3 +39,6 @@ A BehaviorController checks nearby mobs and applies different systems based on t
 
 - "Explaining Events | #23" (from the same series)  
   Helped understand how to use events, which was important for handling mob interactions and updating behavior.
+
+## Repository
+https://github.com/n8gregoryjr-max/dot-mod
