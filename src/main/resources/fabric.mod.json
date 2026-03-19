@@ -1,17 +1,16 @@
 {
 	"schemaVersion": 1,
 	"id": "dot",
-	"version": "${version}",
-	"name": "DOT",
-	"description": "",
+	"version": "1.0.0",
+	"name": "Dynamic Overworld Threat",
+	"description": "A mod that increases world danger based on player actions. Passive mobs flee and hostile mobs grow stronger as threat rises.",
 	"authors": [
-		"Me!"
+		"Nathaniel J. G. Jr."
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/n8gregoryjr-max/dot-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/dot/icon.png",
 	"environment": "*",
 	"entrypoints": {
